@@ -12,10 +12,9 @@ https://selenium-python.readthedocs.io/locating-elements.html?highlight=find_ele
 https://www.w3schools.com/xml/xml_xpath.asp
 https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat
 
-If you use Chromium/Google Chrome
-Sí usas Chromium/Google Chrome
+If you use Chromium/Google Chrome | Sí usas Chromium/Google Chrome
 https://chromedriver.chromium.org/home
 
-The following command will install the packages according to the configuration file / El siguiente comando instalará los paquetes de acuerdo con el archivo de configuración
+The following command will install the packages according to the configuration file | El siguiente comando instalará los paquetes de acuerdo con el archivo de configuración
 
 `pip install -r requirements.txt`
